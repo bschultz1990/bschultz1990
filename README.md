@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben!
 - 👀 I’m interested in web development and python-powered automation.
-- 🌱 I’m currently learning web dev and grinding towards a job! :)
+- 🌱 I’m currently learning web dev and working towards a job! :)
 
 <!---
 bschultz1990/bschultz1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
