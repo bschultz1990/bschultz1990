@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben!
-- 👀 I’m interested in web development and python-powered automation.
+- 👀 I’m interested in web development and terminal-based automation.
 - 🌱 I’m currently learning web dev and working towards a job! :)
 
 <!---
